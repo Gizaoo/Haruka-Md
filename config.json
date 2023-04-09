@@ -9,7 +9,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "zqybzbT5QfBbs6f",
-    "OpenAIKey": "your openai key",
+    "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true, 
